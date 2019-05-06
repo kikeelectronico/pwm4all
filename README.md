@@ -1,10 +1,8 @@
-# Home Automation Devices
+# pwm4all
 
-
-
+pwm4all is a small experimental library for Arduino that can send PWM signal to any digital pin
 
 ***
-
 
 ## Supported microcontrollers
 | Microcontroller | Tested |
